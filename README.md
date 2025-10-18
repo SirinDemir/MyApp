@@ -1,3 +1,2 @@
 # MyApp
-# MyApp
 # Mimamriler
